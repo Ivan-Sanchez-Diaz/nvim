@@ -1,6 +1,7 @@
 set nocompatible	" be improved, required
 filetype off 		" required
 
+set relativenumber
 call plug#begin('~/.config/nvim/plugged')
 
 Plug 'morhetz/gruvbox'
